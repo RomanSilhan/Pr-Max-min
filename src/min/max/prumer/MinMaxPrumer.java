@@ -54,6 +54,8 @@ public class MinMaxPrumer {
             System.out.println("minimum " + min);
             System.out.println("maximum " + max);
             System.out.println("prumer " + ((float) soucet / pocet));
+            System.out.println("Obvod r=vlozen "+((float)Math.PI*v));
+            System.out.println("Obsah r=vlozen "+((float)Math.PI*(v*v)));
         }
     }
 }
